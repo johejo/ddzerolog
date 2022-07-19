@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/rs/zerolog v1.27.0
-	gopkg.in/DataDog/dd-trace-go.v1 v1.40.0
+	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
 )
 
 require (
